@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae623c8-843d-449d-ab52-6cd315eb585e" name="Default" comment="changed h1 to hello world">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/today.phtml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/today.phtml" afterPath="$PROJECT_DIR$/today.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +45,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="today.phtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/today.phtml">
+      <file leaf-file-name="today.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/today.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5092166">
               <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
@@ -376,7 +375,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/today.phtml">
+    <entry file="file://$PROJECT_DIR$/today.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5092166">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
