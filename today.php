@@ -7,7 +7,7 @@
 <body>
 <p>Today&rsquo;s date (according to this web server) is
     <?php
-    echo date('l, F js Y.');
+    echo date('l, F jS Y.');
 
     ?></p>
 </body>
