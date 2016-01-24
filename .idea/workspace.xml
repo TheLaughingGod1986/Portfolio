@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae623c8-843d-449d-ab52-6cd315eb585e" name="Default" comment="added new directory and file">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/today.php" afterPath="$PROJECT_DIR$/today.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/welcome/form.html.php" afterPath="$PROJECT_DIR$/welcome/form.html.php" />
     </list>
@@ -48,8 +49,8 @@
       <file leaf-file-name="today.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/today.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6054795">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.51232874">
+              <caret line="11" column="4" selection-start-line="8" selection-start-column="9" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -464,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/today.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6054795">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.51232874">
+          <caret line="11" column="4" selection-start-line="8" selection-start-column="9" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
