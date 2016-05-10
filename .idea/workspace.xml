@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aae623c8-843d-449d-ab52-6cd315eb585e" name="Default" comment="testing live deply working" />
+    <list default="true" id="aae623c8-843d-449d-ab52-6cd315eb585e" name="Default" comment="testing live deply working">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv.html" afterPath="$PROJECT_DIR$/cv.html" />
+    </list>
     <list id="3aa5a26a-e881-447c-8108-2e3e4da4dba6" name="Rejected commit: Default" comment="testing live deply working" />
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,17 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="122" column="2" selection-start-line="122" selection-start-column="2" selection-end-line="130" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -108,6 +100,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cv.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cv.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -290,7 +292,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1452545999741</updated>
-      <workItem from="1462796642290" duration="12972000" />
+      <workItem from="1462796642290" duration="13112000" />
     </task>
     <task id="LOCAL-00001" summary="testing out a deploy server">
       <created>1452550492565</created>
@@ -401,7 +403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12972000" />
+    <option name="totallyTimeSpent" value="13112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -702,18 +704,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="122" column="2" selection-start-line="122" selection-start-column="2" selection-end-line="130" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
