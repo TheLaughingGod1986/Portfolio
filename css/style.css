@@ -1,6 +1,5 @@
 object.infographic {
     height: 1400px;
-    width: 76%;
-    margin: 0 12%;
+    width: 100%;
     overflow: auto;
 }
