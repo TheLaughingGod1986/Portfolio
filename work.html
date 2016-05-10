@@ -119,17 +119,30 @@
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
 <div class="container marketing">
-
     <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-8">one</div>
-        <div class="col-xs-6 col-md-4">two</div>
+        <div class="col-xs-6 col-sm-4">On Going Projects</div>
+        <div class="col-xs-6 col-sm-4">Free Lance Work</div>
+        <div class="col-xs-6 col-sm-4">Unfinished</div>
     </div>
-    <div class="row">
-        <div class="col-xs-6 col-sm-4">three</div>
-        <div class="col-xs-6 col-sm-4">.four</div>
-        <!-- Optional: clear the XS cols if their content doesn't match in height -->
-        <div class="clearfix visible-xs-block"></div>
-        <div class="col-xs-6 col-sm-4">five</div>
+
+    <div>
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
+            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
+            <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
+            <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">...</div>
+            <div role="tabpanel" class="tab-pane" id="profile">...</div>
+            <div role="tabpanel" class="tab-pane" id="messages">...</div>
+            <div role="tabpanel" class="tab-pane" id="settings">...</div>
+        </div>
+
     </div>
 
     <!-- START THE FEATURETTES -->
