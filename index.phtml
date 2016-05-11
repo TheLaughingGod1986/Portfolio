@@ -1,105 +1,52 @@
 <?php include 'header.php'; ?>
 <?php include 'navigation.php'; ?>
-<!--&lt;!&ndash; Carousel-->
-<!--================================================== &ndash;&gt;-->
-<!--<div id="myCarousel" class="carousel slide" data-ride="carousel">-->
-    <!--&lt;!&ndash; Indicators &ndash;&gt;-->
-    <!--<ol class="carousel-indicators">-->
-        <!--<li data-target="#myCarousel" data-slide-to="0" class="active"></li>-->
-        <!--<li data-target="#myCarousel" data-slide-to="1"></li>-->
-        <!--<li data-target="#myCarousel" data-slide-to="2"></li>-->
-    <!--</ol>-->
-    <!--<div class="carousel-inner" role="listbox">-->
-        <!--<div class="item active">-->
-            <!--<img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">-->
-            <!--<div class="container">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h1>Example headline.</h1>-->
-                    <!--<p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>-->
-                    <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</div>-->
-        <!--<div class="item">-->
-            <!--<img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">-->
-            <!--<div class="container">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h1>Another example headline.</h1>-->
-                    <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                    <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</div>-->
-        <!--<div class="item">-->
-            <!--<img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">-->
-            <!--<div class="container">-->
-                <!--<div class="carousel-caption">-->
-                    <!--<h1>One more for good measure.</h1>-->
-                    <!--<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>-->
-                    <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</div>-->
-    <!--<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">-->
-        <!--<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>-->
-        <!--<span class="sr-only">Previous</span>-->
-    <!--</a>-->
-    <!--<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">-->
-        <!--<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>-->
-        <!--<span class="sr-only">Next</span>-->
-    <!--</a>-->
-<!--</div>&lt;!&ndash; /.carousel &ndash;&gt;-->
-
-
-<!-- Marketing messaging and featurettes
-================================================== -->
-<!-- Wrap the rest of the page in another container to center all the content. -->
+<?php include 'slider.php'; ?>
 
 <div class="container marketing">
 
-<!-- START THE FEATURETTES -->
-
-<div class="row featurette">
-    <div class="col-md-7">
-        <h2 class="featurette-heading">About Me. <span class="text-muted">Hi, Im Ben and im a Developer.</span></h2>
-        <p class="lead">
-           Hi, <br>
-            I love to code, programme and explore...
-        <br>
-            I Love sci-fi books, I love traveling around our wonderful country at the weekends. I love to stay up to date with the latest code and science news.
-            If you want to learn more about me checkout <a href="blog">My Blog</a>.
-        </p>
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">About Me. <span class="text-muted">Hi, Im Ben and im a Developer.</span></h2>
+            <p class="lead">
+                Hi, <br>
+                I love to code, programme and explore...
+                <br>
+                I Love sci-fi books, I love traveling around our wonderful country at the weekends. I love to stay up to
+                date with the latest code and science news.
+                If you want to learn more about me checkout <a href="blog">My Blog</a>.
+            </p>
+        </div>
+        <div class="col-md-5">
+            <img class="featurette-image img-responsive center-block" src="image/ben.jpg" alt="Me (on the left)">
+        </div>
     </div>
-    <div class="col-md-5">
-        <img class="featurette-image img-responsive center-block" src="image/ben.jpg" alt="Me (on the left)">
-    </div>
-</div>
 
     <hr class="featurette-divider">
 
-<!-- /END THE FEATURETTES -->
-
-    <!-- Three columns of text below the carousel -->
     <div class="row">
+
         <div class="col-lg-4">
             <img class="img-circle" src="image/work.png" alt="Generic placeholder image" width="140" height="140">
             <h2>My Work</h2>
             <p>This is where I list projects I have worked on and explain a bit about them.</p>
             <p><a class="btn btn-success" href="work.html" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
+
         <div class="col-lg-4">
             <img class="img-circle" src="image/cv.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>My CV</h2>
             <p>My CV, It is avalible for download in PDF format.</p>
-            <p><a class="btn btn-success" href="cv.html" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-success" href="cv.phtml" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
+
         <div class="col-lg-4">
             <img class="img-circle" src="image/blog.jpg" alt="Generic placeholder image" width="140" height="140">
             <h2>My Blog</h2>
             <p>My Blog will have post on development and research, what i am doing and developing in my free time.</p>
             <p><a class="btn btn-success" href="blog" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
+
     </div><!-- /.row -->
+    
     <?php include 'footer.php'; ?>
    
