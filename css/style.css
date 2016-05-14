@@ -9,14 +9,20 @@ object.infographic {
 }
 
 .work_text  {
-    min-height: 70px;
+    min-height: 85px;
     /*height: 75px;*/
 }
 
 .work_text_h3 {
-    min-height: 60px;
+    min-height: 95px;
 }
 
+.work_container {
+    background-color: beige;
+    border: black solid 0.5px;
+    height: 440px;
+    padding-top: 25px;
+}
 /*.work_header h3  {*/
     /*min-height: 55px !important;*/
 /*}*/
