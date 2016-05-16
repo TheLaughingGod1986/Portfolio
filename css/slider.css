@@ -6,6 +6,12 @@
     background: #22c8ff url("../image/websites/SavingsSystem.png") no-repeat center;
     background-size: Auto 280px;
     border-radius: 15px;
+    /*background: linear-gradient(to right, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 1) 240px, rgba(255, 255, 255, 1) 290px), url("../image/websites/SavingsSystem.png") no-repeat;*/
+    height: 500px;
+    width: 500px;
+    border: solid 1px #000;
+    padding-left: 250px;
+    box-sizing: border-box;
 }
 .deepskyblue {
     background-color: #00bfff;
