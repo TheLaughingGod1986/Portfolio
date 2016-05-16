@@ -1,6 +1,4 @@
 <div class="container main-container">
-
-    <h1>Some Of My Work</h1>
     <div id="carousel-example-generic" class="carousel slide">
         <!-- Indicators -->
         <ol class="carousel-indicators">
