@@ -3,14 +3,21 @@
     padding: 10px 15px;
 }
 .skyblue {
-    background-color: #22c8ff;
+    background: #22c8ff url("../image/websites/SavingsSystem.png") no-repeat center;
+    background-size: Auto 280px;
+    border-radius: 15px;
 }
 .deepskyblue {
     background-color: #00bfff;
+
 }
 .darkerskyblue {
     background-color: #00a6dd;
 }
+/*.backgroundone {*/
+    /*background: #22c8ff url("../image/websites/SavingsSystem.png") no-repeat center;*/
+    /*background-size: Auto 280px;*/
+/*}*/
 .carousel-indicators {
     bottom: 0;
 }
@@ -23,10 +30,11 @@
     height: 100%;
     width:100%;
 }
-.carousel-caption h3,
+.carousel-caption h3 ,
+.carousel-caption p ,
 .carousel .icon-container,
 .carousel-caption button {
-    background-color: #09c;
+    background-color: rgba(0, 153, 204, 0.75);
 }
 .carousel-caption h3 {
     padding: .5em;
