@@ -2,7 +2,6 @@
 ================================================== -->
 <div class="navbar-wrapper">
     <div class="container">
-
         <nav class="navbar navbar-inverse navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
@@ -20,8 +19,6 @@
                         <li><a href="cv.phtml">CV</a></li>
                         <li><a href="blog">Blog</a></li>
                         <li><a href="work.html">Work</a></li>
-                    </ul>
-                    </li>
                     </ul>
                 </div>
             </div>

@@ -18,11 +18,12 @@ object.infographic {
 }
 
 .work_container {
-    background-color: beige;
-    border: black solid 0.5px;
+    /*background-color: #F1F1F1;;*/
+    /*border: #ccc solid 0.5px;*/
     height: 440px;
     padding-top: 25px;
 }
 /*.work_header h3  {*/
     /*min-height: 55px !important;*/
 /*}*/
+}
