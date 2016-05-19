@@ -55,7 +55,7 @@ object.infographic {
     background: linear-gradient(to bottom,  #ff3019 0%,#cf0404 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
     border-radius: 30px;
-    color: blanchedalmond;
+   font: blanchedalmond;
 }
 
 .navbar-custom {
