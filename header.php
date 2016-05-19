@@ -26,6 +26,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/slider.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/animate.min.css" rel="stylesheet">
     <!--<link href="carousel.css" rel="stylesheet">-->
