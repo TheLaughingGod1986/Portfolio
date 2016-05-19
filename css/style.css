@@ -26,3 +26,17 @@ object.infographic {
 /*.work_header h3  {*/
     /*min-height: 55px !important;*/
 /*}*/
+
+.nav-tabs {
+    background-color: rgba(127, 255, 0, 0.98);
+}
+
+.section_blue {
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+
+.section_red {
+    background-color: #ff6259;
+    border-radius: 30px;
+}
